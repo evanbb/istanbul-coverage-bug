@@ -1,0 +1,1 @@
+# istanbul-coverage-bug
