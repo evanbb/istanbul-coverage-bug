@@ -1,0 +1,26 @@
+{
+  "name": "istanbul-coverage-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanbb/istanbul-coverage-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanbb/istanbul-coverage-bug/issues"
+  },
+  "homepage": "https://github.com/evanbb/istanbul-coverage-bug#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.0.1",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.1.0",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
